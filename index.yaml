@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  book:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T16:47:31.0113031+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 7cc6372fb9065315b3d1dc823a9b6a6c6d8c1ad764b6111a8836378f6d53f2c7
+    name: book
+    type: application
+    urls:
+    - publish/book-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-10T16:47:31.0103034+07:00"
